@@ -1,0 +1,9 @@
+{
+	"name": "factspotifysaw",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62735453-28b4-4b7f-9dac-06be412abc4e",
+		"tenantId": "f60738ec-5a18-4059-b5d2-041c985eaf75"
+	}
+}
